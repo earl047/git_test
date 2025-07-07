@@ -8,3 +8,8 @@ July 6, 2025
 - Created My First Webpage
 - Learned the purpose of boiler-plate
 - Create my first pyhton excercise as cross learning 
+
+
+July 7, 2025
+-complete a freecodecamp "Event Hub"
+-Due to a 1 hour power interruption, I will only do a python challenge
